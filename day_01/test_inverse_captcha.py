@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from solution import part_one, part_two
+from inverse_captcha import part_one, part_two
 
 
 def test_part_one():
