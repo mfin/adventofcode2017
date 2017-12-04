@@ -5,3 +5,4 @@ Solutions to Advent of Code 2017 in Python 🎅 🎄 🐍 🎁
 - [Day 1: Inverse Captcha](https://github.com/mfin/adventofcode2017/tree/master/day_01) ⭐️⭐️
 - [Day 2: Corruption Checksum](https://github.com/mfin/adventofcode2017/tree/master/day_02) ⭐️⭐️
 - [Day 3: Spiral Memory](https://github.com/mfin/adventofcode2017/tree/master/day_03) ⭐️⭐️
+- [Day 4: High-Entropy Passphrases](https://github.com/mfin/adventofcode2017/tree/master/day_04) ⭐️⭐️
